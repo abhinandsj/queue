@@ -2,7 +2,7 @@
 #define n 5
 int main()
 {
-    intchar queue[n],ch=1,front=0,rear=0,i,j=1,x=n;
+    int queue[n],ch=1,front=0,rear=0,i,j=1,x=n;
     printf("Queue using Array");
     printf("\n1.Insertion \n2.Deletion \n3.Display \n4.Exit");
     while(ch)
