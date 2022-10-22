@@ -12,7 +12,7 @@ int main()
         switch(ch)
         {
         case 1:
-            if(rear==front)
+            if(rear==x)
                 printf("\n Queue is Full");
             else
             {
