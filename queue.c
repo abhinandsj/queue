@@ -8,7 +8,7 @@ int main()
     while(ch)
     {
         printf("\nEnter the Choice:");
-        scanf("%p",&ch);
+        scanf("%d",&ch);
         switch(ch)
         {
         case 1:
